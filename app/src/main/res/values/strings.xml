@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Company Business-card app</string>
+    <string name="logo_description">Ghost ship</string>
+    <string name="button_try">About page</string>
+    <string name="company_name">Ghost Ship Games</string>
+    <string name="about_top">Ghost Ship Games was founded in the spring of 2016 by 6 veteran game developers. By now, we have grown to a team of 32 people, comprised of both industry veterans and up and coming developers.</string>
+    <string name="about_bot">Right from the get-go, we’ve had a couple of over-arching goals: Making games that we would enjoy playing ourselves, making games that take co-op to the next level, and to avoid many of the game development pitfalls we have encountered elsewhere.</string>
+</resources>
